@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiaryAppFile", "module06_csharp\DiaryAppFile.csproj", "{8BA91B4B-BE60-4BB1-AFC1-48A68124497C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileIndoDemo", "FileIndoDemo\FileIndoDemo.csproj", "{F1B2E0BC-37FB-40D1-83A5-EF6D1C6691F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectoryDemo", "DirectoryDemo\DirectoryDemo.csproj", "{BE40E475-7774-4942-8B17-B4D787DD9F5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialization_De_Json", "Serialization_De_Json\Serialization_De_Json.csproj", "{2DB4597A-A77C-431C-A01B-7FF92F04EAC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialization_De_Xml", "Serialization_De_Xml\Serialization_De_Xml.csproj", "{E676DEB2-2F79-4C40-9C69-983BCF32D532}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialization_De_Binary", "Serialization_De_Binary\Serialization_De_Binary.csproj", "{E0AE50D2-F6E9-4EE5-AABE-53D89E6AB9A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadingTextWithStream", "ReadingTextWithStream\ReadingTextWithStream.csproj", "{403805BF-98F1-4B23-9DED-893DFC459374}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BA91B4B-BE60-4BB1-AFC1-48A68124497C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BA91B4B-BE60-4BB1-AFC1-48A68124497C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BA91B4B-BE60-4BB1-AFC1-48A68124497C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BA91B4B-BE60-4BB1-AFC1-48A68124497C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1B2E0BC-37FB-40D1-83A5-EF6D1C6691F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B2E0BC-37FB-40D1-83A5-EF6D1C6691F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B2E0BC-37FB-40D1-83A5-EF6D1C6691F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B2E0BC-37FB-40D1-83A5-EF6D1C6691F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE40E475-7774-4942-8B17-B4D787DD9F5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE40E475-7774-4942-8B17-B4D787DD9F5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE40E475-7774-4942-8B17-B4D787DD9F5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE40E475-7774-4942-8B17-B4D787DD9F5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DB4597A-A77C-431C-A01B-7FF92F04EAC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DB4597A-A77C-431C-A01B-7FF92F04EAC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DB4597A-A77C-431C-A01B-7FF92F04EAC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DB4597A-A77C-431C-A01B-7FF92F04EAC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E676DEB2-2F79-4C40-9C69-983BCF32D532}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E676DEB2-2F79-4C40-9C69-983BCF32D532}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E676DEB2-2F79-4C40-9C69-983BCF32D532}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E676DEB2-2F79-4C40-9C69-983BCF32D532}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0AE50D2-F6E9-4EE5-AABE-53D89E6AB9A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0AE50D2-F6E9-4EE5-AABE-53D89E6AB9A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0AE50D2-F6E9-4EE5-AABE-53D89E6AB9A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0AE50D2-F6E9-4EE5-AABE-53D89E6AB9A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{403805BF-98F1-4B23-9DED-893DFC459374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{403805BF-98F1-4B23-9DED-893DFC459374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{403805BF-98F1-4B23-9DED-893DFC459374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{403805BF-98F1-4B23-9DED-893DFC459374}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8451BB70-E2B1-4AA7-ACF8-471EC815DB3D}
+	EndGlobalSection
+EndGlobal
